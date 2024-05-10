@@ -1,5 +1,7 @@
 # Shadowsocks 2022
 
+Install `xray` on server with https://github.com/XTLS/Xray-install.
+
 Generate password:
 
 ```
@@ -57,3 +59,5 @@ Restart `xray`:
 ```
 systemctl restart xray
 ```
+
+GUI clients as per README for https://github.com/XTLS/Xray-core.
