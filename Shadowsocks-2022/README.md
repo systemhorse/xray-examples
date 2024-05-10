@@ -51,3 +51,9 @@ Edit `/usr/local/etc/xray/config.json`:
     ]
 }
 ```
+
+Restart `xray`:
+
+```
+systemctl restart xray
+```
