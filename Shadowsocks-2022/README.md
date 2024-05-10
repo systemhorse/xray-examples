@@ -37,7 +37,7 @@ Edit `/usr/local/etc/xray/config.json`:
                 "password": "{{ password }}"
             },
             "streamSettings": {
-                "network": "tcp,udp"
+                "network": "tcp"
             }
         }
     ],
